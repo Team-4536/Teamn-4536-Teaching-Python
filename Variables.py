@@ -47,3 +47,13 @@ intExample += 5
 
 
 
+
+
+
+
+#You can type variables using   varName: varType = value
+#Like this
+typedBoolean: bool = True
+typedString: str = "This is typed"
+typedInt: int = 1234
+#This doesnt change much about them other than make them one type meaning it is easier to find errors so it is best practice but not required to type them

@@ -1,4 +1,5 @@
 import math
+import random
 exampleVar = "asasas"
 anotherVar = "dfdfdfdfdfdf"
 
@@ -20,4 +21,8 @@ print(exampleVar + anotherVar)
 pi = math.pi
 #Other examples are
 asd = math.sin(15)
+#random.randint(int,int) provides a random int between the to values you give it including those 2
+#This isnt super useful in frc but it is good to know
+randomNum = random.randint(1,10)
+
 #make 4 variables and give the variables values using different math commands.

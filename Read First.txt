@@ -1,0 +1,9 @@
+The order of this is
+Variables.py
+Common Commands and Math.py
+Modulus.py
+If statements.py
+loops.py
+
+
+Also remember that asking for help is ok
