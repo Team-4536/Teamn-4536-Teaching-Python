@@ -4,6 +4,6 @@ Common Commands and Math.py
 Modulus.py
 If statements.py
 loops.py
-
+classes.py
 
 Also remember that asking for help is ok
